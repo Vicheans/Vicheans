@@ -32,9 +32,9 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicheans)](https://github.com/vicheans/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Vicheans&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicheans&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/Vicheans)  
 
