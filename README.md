@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Victor Olateju
-## Design, Development and DevOps
+### Design, Development and DevOps
 ![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
 
 I'm Victor from Nigeria, a Biomedical engineer and a Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
