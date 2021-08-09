@@ -26,4 +26,4 @@ Skills: REACT / PHP / JS / HTML / CSS / PYTHON
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vicheans)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Vicheans)  
+![Profile views](https://gpvc.arturio.dev/Vicheans)  
