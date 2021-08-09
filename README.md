@@ -1,11 +1,29 @@
-# My Profile: Victor Daniel Olateju
+### Hi there 👋, I'm Victor Olateju
+#### Design, Development and DevOps
+![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
 
-Hello there, I'm Victor from Nigeria, a Biomedical engineer and a Full-Stack Web Developer. I have a hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferrably the MERN + GraphQl stack.   
-I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. Hey! I'm not anti-social, though an Introvert but I think I have a Twitter page right here https://twitter.com/_Vicheans?s=09 
+I'm Victor from Nigeria, a Biomedical engineer and a Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
+I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. Hey! I'm not anti-social, though an Introvert, I think I have a Twitter page right here https://twitter.com/_Vicheans?s=09
 
-[![Vicheans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicheans)](https://github.com/Vicheans)
+Skills: REACT / PHP / JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: victorolateju8@gmail.com 
+- 😄 Pronouns: Christianovik, Him, He, VIcheans 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vicheans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-daniel-olateju-7a629116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/victor.olateju.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Vicheans?s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11484914/vicheans)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicheans&layout=compact)](https://github.com/Vicheans)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vicheans)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicheans)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Vicheans&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Vicheans)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vicheans)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Vicheans)  
