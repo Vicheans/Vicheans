@@ -7,11 +7,11 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 
 ### Projects / Examples of Work
 
-- brainballer.com : a reward oriented quiz platform 
+- https://brainballer.com : a reward oriented quiz platform 
 - https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
 - http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
 - http://eksuth-ard.herokuapp.com/ : a health organization website
-- ghcadoekiti.org - areligious body official website
+- https://ghcadoekiti.org - areligious body official website
 - https://fierce-plateau-06047.herokuapp.com : a score prediction machine learning model
 
 
