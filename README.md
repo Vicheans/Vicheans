@@ -1,13 +1,27 @@
-### Hi there 👋, I'm Victor Olateju
-#### Design, Development and DevOps
+## Hi there 👋, I'm Victor Olateju
+## Design, Development and DevOps
 ![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
 
 I'm Victor from Nigeria, a Biomedical engineer and a Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
 I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. Hey! I'm not anti-social, though an Introvert, I think I have a Twitter page for the record. :)
 
-Skills: REACT / PHP / JS / HTML / CSS / PYTHON
+### Projects / Examples of Work
 
-- 🔭 I’m currently working on this page. 
+- brainballer.com : a reward oriented quiz platform 
+- https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
+- http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
+- http://eksuth-ard.herokuapp.com/ : a health organization website
+- ghcadoekiti.org - areligious body official website
+- https://fierce-plateau-06047.herokuapp.com : a score prediction machine learning model
+
+
+### Skills
+- REACT 
+- PHP 
+- JS, HTML, CSS 
+- PYTHON
+
+- 🔭 I’m currently working brainballer.com 
 - 📫 How to reach me: victorolateju8@gmail.com 
 - 😄 Pronouns: Christianovik, Him, He, VIcheans 
 
