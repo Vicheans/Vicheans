@@ -7,6 +7,9 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 
 ### Projects / Examples of Work
 
+! following the heroku update stopping free dynos, some of these apps are currently being moved to other platforms 
+and may be currently unavailable. Do check back some other time
+
 - https://brainballer.com : a reward oriented quiz platform 
 - https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
 - http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
@@ -16,14 +19,14 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 
 
 ### Skills
-- REACT 
-- PHP 
-- JS, HTML, CSS 
+- REACT, NextJs, GraphQL, 
+- PHP, Django, Tanstack
+- JS, HTML, CSS, SCSS, Tailwing, Bootstrap
 - PYTHON
 
-- 🔭 I’m currently working brainballer.com 
-- 📫 How to reach me: victorolateju8@gmail.com 
-- 😄 Pronouns: Christianovik, Him, He, VIcheans 
+- 🔭 I’m currently working on brainballer.com 
+- 📫 How to reach me: victordanielolateju@gmail.com 
+- 😄 Pronouns: Him, He, VIcheans 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vicheans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-daniel-olateju-7a629116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/victor.olateju.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Vicheans?s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11484914/vicheans)  
