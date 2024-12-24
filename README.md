@@ -7,7 +7,7 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 
 ### Projects / Examples of Work
 
-! following the heroku update stopping free dynos, some of these apps are currently being moved to other platforms 
+!!! following the heroku update stopping free dynos, some of these apps are currently being moved to other platforms 
 and may be currently unavailable. Do check back some other time
 
 - https://brainballer.com : a reward oriented quiz platform 
@@ -37,7 +37,7 @@ and may be currently unavailable. Do check back some other time
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicheans&show_icons=true&count_private=true)  
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)
 
 ![GitHub metrics](https://metrics.lecoq.io/Vicheans)  
 
