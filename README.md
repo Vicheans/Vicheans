@@ -37,7 +37,7 @@ and may be currently unavailable. Do check back some other time
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicheans&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vicheans)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vicheans)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/vicheans)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vicheans)
