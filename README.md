@@ -1,21 +1,22 @@
 ## Hi there 👋, I'm Victor Olateju
 ### Design, Development and DevOps
 ![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
+Website: [](victor-olateju.com)
 
 I'm Victor, Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
-I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. Hey! I'm not anti-social, though an Introvert, I think I have a Twitter page for the record. :)
+I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. :)
 
 ### Projects / Examples of Work
 
 !!! following the heroku update stopping free dynos, some of these apps are currently being moved to other platforms 
 and may be currently unavailable. Do check back some other time
 
-- [BRainballer](https://baller-update.vercel.app/): a reward oriented quiz platform 
-- https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
-- http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
-- http://eksuth-ard.herokuapp.com/ : a health organization website
-- https://ghcadoekiti.org - areligious body official website
-- https://fierce-plateau-06047.herokuapp.com : a score prediction machine learning model
+- [Brainballer](https://baller-update.vercel.app/): a reward oriented quiz platform 
+- [AbujaRoxx](/): a listing web application for a multimedia company
+- [LillyVille Edu. Consultancy](https://lilyvilleeduconsult.com/): an educational consultancy business page
+- [EKSUTH](https://eksuth-ard.vercel.app/) : a health organization website
+- [GHC Org.](https://ghcadoekiti.netlify.app/) - areligious body official website
+- [Inventory Manager](https://infallible-shannon-63fb50.netlify.app/): Inventory manager application
 
 
 ### Skills
