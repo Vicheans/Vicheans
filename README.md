@@ -10,7 +10,7 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 !!! following the heroku update stopping free dynos, some of these apps are currently being moved to other platforms 
 and may be currently unavailable. Do check back some other time
 
-- https://brainballer.com : a reward oriented quiz platform 
+- [BRainballer](https://baller-update.vercel.app/): a reward oriented quiz platform 
 - https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
 - http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
 - http://eksuth-ard.herokuapp.com/ : a health organization website
