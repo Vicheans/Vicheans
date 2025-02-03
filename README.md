@@ -12,7 +12,7 @@ I enjoy learning new languages and frameworks like React, Django etc, spending l
 and may be currently unavailable. Do check back some other time
 
 - [Brainballer](https://baller-update.vercel.app/): a reward oriented quiz platform 
-- [AbujaRoxx](/): a listing web application for a multimedia company
+- [AbujaRoxx](https://roxx-six.vercel.app/): a listing web application for a multimedia company
 - [LillyVille Edu. Consultancy](https://lilyvilleeduconsult.com/): an educational consultancy business page
 - [EKSUTH](https://eksuth-ard.vercel.app/) : a health organization website
 - [GHC Org.](https://ghcadoekiti.netlify.app/) - areligious body official website
