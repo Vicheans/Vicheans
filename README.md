@@ -3,8 +3,8 @@
 ![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
 [Website](victor-olateju.com)
 
-I'm Victor, Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
-I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. :)
+I'm Victor, Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQL stack.
+I enjoy learning about new languages and new technologies, and listening to music as I program. :)
 
 ### Projects / Examples of Work
 
